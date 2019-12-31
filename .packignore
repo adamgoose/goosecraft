@@ -15,5 +15,6 @@
 .minecraft/server-resource-packs
 .minecraft/texturepacks
 .minecraft/waypoints_0.png
+.minecraft/mods/mamiyaotaru/voxelmap/cache
 natives
 patches
