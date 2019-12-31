@@ -15,7 +15,7 @@ Start by downloading MultiMC [here](2). Open the .zip file, and "Extract All" to
 2. Select the latest version of Java. You might need to install it from [here](3) (ignore the license and browser compatability warnings on Java's website). You can increase the Maximum memory if you know your computer's limits. Click "Next".
 3. Analytics or whatever. Click "Finish".
 4. Click "Profiles" on the top right, then "Manage Accounts". Click "Add" on the top right, then login with your Mojang Minecraft account. Click "Close".
-5. Click "Add Instance", then select "Import from zip". Paste the URL `https://minio.enge.me/dropshare/GooseCraft-1.0.zip`, and click "OK".
+5. Click "Add Instance", then select "Import from zip". Paste the URL `https://github.com/adamgoose/goosecraft/archive/1.0.zip`, and click "OK".
 6. That's it, you're done! Click "Launch"!
 
 The Client is pre-configured with the GooseCraft server, but only members are whitelisted. Contact Goose for access.
