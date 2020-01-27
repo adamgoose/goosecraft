@@ -7,12 +7,12 @@ GooseCraft is a private server and collection of client-side mods for use when h
 
 ## Installing the Client
 
-[MultiMC](1) is an easy-to-use software for Mac and PC that allows you to simply run multiple instances of Minecraft. As you play on different servers with different mods, you'll find it easier to simply configure a new profile.
+[MultiMC][1] is an easy-to-use software for Mac and PC that allows you to simply run multiple instances of Minecraft. As you play on different servers with different mods, you'll find it easier to simply configure a new profile.
 
-Start by downloading MultiMC [here](2). Open the .zip file, and "Extract All" to your Desktop (or some other folder where you save your games). Then, run `MultiMC.exe` from the extracted folder. Follow the steps below to create the Client.
+Start by downloading MultiMC [here][2]. Open the .zip file, and "Extract All" to your Desktop (or some other folder where you save your games). Then, run `MultiMC.exe` from the extracted folder. Follow the steps below to create the Client.
 
 1. Select "American English" (unless you've recently become fluent in Mandarin Chinese), and click "Next".
-2. Select the latest version of Java. You might need to install it from [here](3) (ignore the license and browser compatability warnings on Java's website). You can increase the Maximum memory if you know your computer's limits. Click "Next".
+2. Select the latest version of Java. You might need to install it from [here][3] (ignore the license and browser compatability warnings on Java's website). You can increase the Maximum memory if you know your computer's limits. Click "Next".
 3. Analytics or whatever. Click "Finish".
 4. Click "Profiles" on the top right, then "Manage Accounts". Click "Add" on the top right, then login with your Mojang Minecraft account. Click "Close".
 5. Click "Add Instance", then select "Import from zip". Paste the URL `https://github.com/adamgoose/goosecraft/archive/1.0.zip`, and click "OK".

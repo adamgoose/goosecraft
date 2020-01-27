@@ -6,6 +6,7 @@
 .minecraft/icon.png
 .minecraft/logs
 .minecraft/mobs_0.png
+.minecraft/mods/mamiyaotaru
 .minecraft/options.txt
 .minecraft/pings_0.png
 .minecraft/realms_persistence.json
@@ -15,6 +16,5 @@
 .minecraft/server-resource-packs
 .minecraft/texturepacks
 .minecraft/waypoints_0.png
-.minecraft/mods/mamiyaotaru/voxelmap/cache
 natives
 patches
